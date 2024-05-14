@@ -1,6 +1,6 @@
 ## Hi there, I'm Swathi Nadimpilli 👋
 
-I'm an experienced Testing Analyst and a recent Master's Graduate in Analytics at Northeastern University, Boston, USA. With a solid background in data analytics, machine learning, and natural language processing, I'm passionate about leveraging data to drive insightful decision-making and create a meaningful impact.
+I'm a recent Master's Graduate in Analytics at Northeastern University, Boston, USA and an experienced Testing Analyst. With a solid background in data analytics, machine learning, and natural language processing, I'm passionate about leveraging data to drive insightful decision-making and create a meaningful impact.
 
 ## 🚀 About Me
 - 🎓 I'm recent Master's graduate in Analytics at Northeastern University.
