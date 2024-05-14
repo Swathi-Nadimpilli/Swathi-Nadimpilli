@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Swathi Nadimpilli 👋
 
-<!--
-**Swathi-Nadimpilli/Swathi-Nadimpilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced Testing Analyst and a recent Master's Graduate in Analytics at Northeastern University, Boston, USA. With a solid background in data analytics, machine learning, and natural language processing, I'm passionate about leveraging data to drive insightful decision-making and create a meaningful impact.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 I'm recent Master's graduate in Analytics at Northeastern University.
+- 💼 Former Testing Analyst at TATA Consultancy Services (TCS) - United Services Automobile Association (USAA) with hands-on experience in data-driven software testing.
+- 🌟 Proficient in Python, R, SQL, and various data visualization tools. I'm dedicated to continuous learning and professional growth.
+- 🌱 Enthusiastic about using data to uncover insights, solve complex problems, and innovate business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Programming Languages:** Python, R, MySQL
+- **Tools:** Excel, Tableau, Microsoft PowerBI
+- **Functional Expertise:** Data Analysis, Data Visualization, Hypothesis Testing, Predictive Modeling, Statistical Analysis
+- **Machine Learning:** Regression, Classification, Clustering, Natural Language Processing (NLP)
+
+📫 How to reach me
+Feel free to reach out to me at swathinadimpilli06@gmail.com.
