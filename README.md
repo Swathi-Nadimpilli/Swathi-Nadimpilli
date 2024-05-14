@@ -16,4 +16,4 @@ I'm an experienced Testing Analyst and a recent Master's Graduate in Analytics a
 
 
 📫 How to reach me
-Feel free to reach out to me at swathinadimpilli06@gmail.com and in/swathi-nadimpilli/.
+Feel free to reach out to me at swathinadimpilli06@gmail.com and https://www.linkedin.com/in/swathi-nadimpilli/.
