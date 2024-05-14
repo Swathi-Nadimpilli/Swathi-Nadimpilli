@@ -14,5 +14,6 @@ I'm an experienced Testing Analyst and a recent Master's Graduate in Analytics a
 - **Functional Expertise:** Data Analysis, Data Visualization, Hypothesis Testing, Predictive Modeling, Statistical Analysis
 - **Machine Learning:** Regression, Classification, Clustering, Natural Language Processing (NLP)
 
+
 📫 How to reach me
-Feel free to reach out to me at swathinadimpilli06@gmail.com.
+Feel free to reach out to me at swathinadimpilli06@gmail.com and in/swathi-nadimpilli/.
