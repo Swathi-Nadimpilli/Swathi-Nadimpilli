@@ -4,7 +4,7 @@ I'm an Analytics Graduate at Northeastern University, Boston, USA. With a solid 
 
 ## 🚀 About Me
 - 🎓 I'm recent Master's graduate in Analytics at Northeastern University.
-- 💼 Former Data Analyst at TATA Consultancy Services (TCS) - United Services Automobile Association (USAA) with hands-on experience in data-driven Analysis.
+- 💼 Former Data Analyst at Tata Consultancy Services (TCS) - United Services Automobile Association (USAA) with hands-on experience in data-driven Analysis.
 - 🌟 Proficient in Python, R, SQL, and various data visualization tools. I'm dedicated to continuous learning and professional growth.
 - 🌱 Enthusiastic about using data to uncover insights, solve complex problems, and innovate business processes.
 
