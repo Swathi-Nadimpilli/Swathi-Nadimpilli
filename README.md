@@ -3,9 +3,9 @@
 I'm an Analytics Graduate at Northeastern University, Boston, USA. With a solid background in data analytics, machine learning, and natural language processing, I'm passionate about leveraging data to drive insightful decision-making and create a meaningful impact.
 
 ## 🚀 About Me
-- 🎓 I'm recent Master's graduate in Analytics at Northeastern University.
-- 💼 Former Data Analyst at Tata Consultancy Services (TCS) - United Services Automobile Association (USAA) with hands-on experience in data-driven Analysis.
-- 🌟 Proficient in Python, R, SQL, and various data visualization tools. I'm dedicated to continuous learning and professional growth.
+- 🎓 Master's degree in Analytics from Northeastern University, Boston.
+- 💼 Currently working as a Data Analyst - Business & Reporting Analytics at Soyo Soft Inc. – Emmaty Inc., and a former Data Analyst at Tata Consultancy Services (TCS) – USAA, specializing in data analysis, business reporting, and data-driven decision-making.
+- 🌟 Proficient in Python, SQL, Excel, Power BI, and Tableau, with experience in data visualization, KPI reporting, and business intelligence. I'm dedicated to continuous learning and professional growth.
 - 🌱 Enthusiastic about using data to uncover insights, solve complex problems, and innovate business processes.
 
 ## 🛠 Skills
